@@ -8,17 +8,18 @@
 ![GitHub License](https://img.shields.io/github/license/MateoVelasquez/book_catalog)
 
 ## Tabla de Contenido
+
 1. [Introducción](#introducción)
 2. [Descripción de los Datos](#descripción-de-los-datos)
-3. [Imputación de Datos en el Catálogo](#imputación-de-datos-en-el-catálogo)
-4. [Preparación de Datos](#preparación-de-datos)
-5. [Análisis Descriptivo](#análisis-descriptivo)
-6. [Preprocesamiento de Datos](#preprocesamiento-de-datos)
-7. [Modelado de Datos](#modelado-de-datos)
-8. [Evaluación del Modelo](#evaluación-del-modelo)
-9. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-10. [Contribuciones](#contribuciones)
-11. [Contacto](#contacto)
+3. [Estructura de Carpetas](#estructura-de-carpetas)
+4. [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
+5. [Preprocesamiento de Datos](#preprocesamiento-de-datos)
+6. [Modelado de Aprendizaje Automático](#modelado-de-aprendizaje-automático)
+7. [Evaluación del Modelo](#evaluación-del-modelo)
+8. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+9. [¡Contribuciones Bienvenidas!](#¡contribuciones-bienvenidas)
+10. [Contacto](#contacto)
+
 
 ## Introducción
 La satisfacción del cliente es un pilar fundamental para la sostenibilidad y el crecimiento de cualquier empresa en el mercado actual. Esta satisfacción se ve influenciada por diversos factores, entre ellos, si el producto o servicio cumple con las expectativas del cliente. Sin embargo, también es crucial considerar cómo reacciona la empresa ante situaciones en las que estas expectativas no se cumplen. La manera en que una empresa gestiona estas experiencias negativas puede tener un impacto significativo en la satisfacción general del cliente. En este proyecto de análisis de satisfacción del cliente, exploraremos tanto la percepción del cliente sobre el producto ofrecido como las respuestas de la empresa frente a posibles inconformidades, con el objetivo de comprender mejor cómo mejorar continuamente la experiencia del cliente y fortalecer la posición competitiva de la empresa en el mercado.
